@@ -2,7 +2,7 @@
 
 ## 🚀 I'm a FrontEnd {web && Mobile} Developer, and an Instructor!!
 
-- 🌱 I’m currently learning web Backend through Nodejs, as well as Mobile developement in React native
+- 🌱 I’m currently learning web Typescript, as well as Mobile developement (React native)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer, Chess and guitar.
