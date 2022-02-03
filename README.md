@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play soccer, Chess and guitar.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, ES6+, Reactjs, Nextjs, TailwindCss, SASS, Styled-components, Firebase, Contentful, D3 ...
+HTML, CSS, Javascript, ES6+, Reactjs, React Native, Nextjs, TailwindCss, SASS, Styled-components, Reduxjs, Redux-toolkit, Firebase, Contentful, D3js, Leafletjs.
 
 ## 🔗 Connect with me
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrkouhadi.com/) -->
