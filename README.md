@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 <div id="header" align="center">
-  <h1>Hi there 👋 This is Mr.Kouhadi </h1>
+  <h1>Hi There 👋 </h1>
 </div>
 
-## 🚀 I'm a FrontEnd { web && Mobile } Developer.
+## 🚀 I'm a FrontEnd ( web & Mobile )  Developer.
 
 - 🌱 I’m currently learning Typescript, as well as Mobile developement (React native)
 - 👯 I’m looking to collaborate with other content creators
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp; &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp; &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;&nbsp; 
@@ -34,7 +34,9 @@
   this link for more https://www.sitepoint.com/github-profile-readme/  -->
 </div>
 
+## 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
