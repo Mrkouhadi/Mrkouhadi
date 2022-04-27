@@ -32,8 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
-<!--  for adding more icons,refers to https://github.com/devicons/devicon/tree/master/icons and 
-  this link for more https://www.sitepoint.com/github-profile-readme/  -->
 </div>
 
 ## 
@@ -46,5 +44,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkouhadi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrkouhadi)
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mrkouhadi&style=flat-square&color=blue" alt="" height="40"/>  profile views counter --> 
 
