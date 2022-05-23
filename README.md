@@ -6,7 +6,7 @@
   <h1>Hi There 👋  ! </h1>
 </div>
 
-## 🚀 I'm a Frontend Developer for both Webapps & Mobile apps ( React && React-native )
+## 🚀 I'm a Frontend Developer ( Web & Mobile apps )
 
 - 🌱 I’m currently learning React native
 - 👯 I’m looking to collaborate with other content creators
