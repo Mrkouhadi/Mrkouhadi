@@ -1,6 +1,6 @@
 
 <div id="header" align="left">
-  <h1>Hi 👋  My name is Kouhadi Aboubakr Essaddik </h1>
+  <h1>Hi 👋  I'm Kouhadi Aboubakr Essaddik </h1>
 </div>
 
 ## 🚀 I'm a Frontend Developer ( Web & Mobile apps )
