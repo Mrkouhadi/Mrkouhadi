@@ -5,7 +5,7 @@
 
 ## 🚀 I'm a Frontend Developer ( Web & Mobile apps )
 
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
