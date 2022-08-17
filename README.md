@@ -14,6 +14,7 @@
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
       <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" **alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
     <img src="https://user-images.githubusercontent.com/68134403/160444182-f17c6da4-a789-49c7-beaa-dc05f99a9f73.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp; &nbsp; 
@@ -29,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
 </div>
+
 
 ## 
 
