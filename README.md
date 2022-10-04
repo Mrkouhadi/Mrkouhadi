@@ -32,7 +32,7 @@
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats). -->
 
 ## 🔗 Connect with me
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrkouhadi.com/) -->
