@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
 ## 🛠 Skills
-###  <h1>For Web Apps Development <p> &#128071;</p> </h1>
+###  For Web Apps Development 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
 </div>
-###  <h1>For Cross-platform Mobile Apps Development <p> &#128071;</p></h1>
+###  For Cross-platform Mobile Apps Development
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
