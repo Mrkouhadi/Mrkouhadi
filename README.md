@@ -29,7 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
 </div>
-
+&nbsp; 
 ### &#128241; For Cross-platform Mobile Apps Development 
 &nbsp; 
 <div>
@@ -42,11 +42,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
 </div>
-
+&nbsp; 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats). -->
 
-## 🔗 Connect with me &#x270C;
+## 🔗 Let's get in touch With Me 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrkouhadi.com/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkouhadi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrkouhadi)
