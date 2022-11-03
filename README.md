@@ -1,7 +1,6 @@
 
 <div id="header">
   <h1 align="center">Hi 👋 </h1>
-  <h2>My name is Kouhadi Aboubakr Essaddik </h2>
 </div>
 
 ## 🚀 I'm a Frontend Developer ( Web & Mobile apps )
@@ -12,7 +11,7 @@
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
 ## 🛠 Skills  &#128071;
-### &#128187; For Web Apps Development
+### &#128187; &nbsp; &nbsp; Web Apps Development
 &nbsp; 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
@@ -32,7 +31,7 @@
     <p></p>
 </div>
 
-### &#128241; For Cross-platform Mobile Apps Development 
+### &#128241; &nbsp; &nbsp; Cross-platform Mobile Apps Development 
 &nbsp; 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
