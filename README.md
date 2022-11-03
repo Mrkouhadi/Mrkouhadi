@@ -28,8 +28,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
+    <p></p>
 </div>
-&nbsp; 
+
 ### &#128241; For Cross-platform Mobile Apps Development 
 &nbsp; 
 <div>
@@ -41,8 +42,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
+        <p></p>
+
 </div>
-&nbsp; 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats). 
 
