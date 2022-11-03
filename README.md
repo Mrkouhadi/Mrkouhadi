@@ -1,7 +1,7 @@
 
-<div id="header" align="left">
+<div id="header" align="center">
   <h1>Hi 👋 </h1>
-  <h2>Hi 👋  My name is Kouhadi Aboubakr Essaddik </h2>
+  <h2>My name is Kouhadi Aboubakr Essaddik </h2>
 </div>
 
 ## 🚀 I'm a Frontend Developer ( Web & Mobile apps )
