@@ -10,8 +10,9 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
-## 🛠 Skills
-### &#128187; For Web Apps Development &#128071;
+## 🛠 Skills  &#128071;
+### &#128187; For Web Apps Development
+&nbsp; 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
@@ -29,7 +30,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
 </div>
 
-### &#129409; For Cross-platform Mobile Apps Development &#128071;
+### &#128241; For Cross-platform Mobile Apps Development 
+&nbsp; 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
