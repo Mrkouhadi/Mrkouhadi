@@ -1,6 +1,6 @@
 
-<div id="header" align="center">
-  <h1>Hi 👋 </h1>
+<div id="header">
+  <h1 align="center">Hi 👋 </h1>
   <h2>My name is Kouhadi Aboubakr Essaddik </h2>
 </div>
 
