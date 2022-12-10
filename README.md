@@ -1,6 +1,6 @@
 
 <div id="header">
-  <h1 align="center">Hi Fellows 👋 </h1>
+  <h1 align="center">Hi  👋 </h1>
 </div>
 
 ## 🚀 I'm a Web Developer 
