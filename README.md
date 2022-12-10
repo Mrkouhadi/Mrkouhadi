@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate with other content creators
-<!-- - 🥅 2023 Goals: Contribute more to Open Source projects -->
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
+<!-- - 🥅 2023 Goals: Contribute more to Open Source projects -->
 
 ## 🛠 Skills  &#128071;
 ### &#128187; &nbsp; &nbsp; Web Apps Development
