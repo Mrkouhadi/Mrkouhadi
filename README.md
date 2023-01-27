@@ -3,24 +3,21 @@
   <h1 align="center">Hi  👋 </h1>
 </div>
 
-## 🚀 I'm a Web Developer 
+## 🚀 I'm a Web/Mobile Apps Developer
 
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
-<!-- - 🥅 2023 Goals: Contribute more to Open Source projects -->
 
 ## 🛠 Skills  &#128071;
-### &#128187; &nbsp; &nbsp; Web Apps Development
-&nbsp; 
 <div>
- 
- <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/> &nbsp; &nbsp; 
+ <img src="https://user-images.githubusercontent.com/68134403/160446023-bce2cd0b-9cee-4c14-ab71-ccd147f6c0f5.svg" title="React-Native" alt="React-native" width="40" height="40"/>&nbsp; &nbsp;   
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp; 
@@ -31,20 +28,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
     <p></p>
-</div>
-
-### &#128241; &nbsp; &nbsp; Cross-platform Mobile Apps Development 
-&nbsp; 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://user-images.githubusercontent.com/68134403/160446023-bce2cd0b-9cee-4c14-ab71-ccd147f6c0f5.svg" title="React-Native" alt="React-native" width="40" height="40"/>&nbsp; &nbsp;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="40"/>&nbsp; &nbsp; 
-        <p></p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
