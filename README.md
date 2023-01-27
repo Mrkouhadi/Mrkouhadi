@@ -15,10 +15,10 @@
 &nbsp; 
 <div>
  
- <img src="[https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" **alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/> &nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp; 
