@@ -14,7 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/> &nbsp; &nbsp; 
  <img src="https://user-images.githubusercontent.com/68134403/160446023-bce2cd0b-9cee-4c14-ab71-ccd147f6c0f5.svg" title="React-Native" alt="React-native" width="40" height="40"/>&nbsp; &nbsp;   
@@ -25,6 +24,7 @@
 <img src="https://user-images.githubusercontent.com/68134403/160449869-60c77c3f-bb31-482f-9c2f-9f8e6abec654.svg" title="Styled-Components" alt="Styled-Components" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
     <p></p>
