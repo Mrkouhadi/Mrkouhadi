@@ -6,7 +6,7 @@
 ## 🚀 I'm a Web/Mobile Apps Developer
 
 - 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
 ## 🛠 Skills  &#128071;
