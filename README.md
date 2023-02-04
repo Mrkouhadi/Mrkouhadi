@@ -3,7 +3,7 @@
   <h1 align="center">Hi  👋 </h1>
 </div>
 
-## 🚀 I'm a Web/Mobile Apps Developer
+## 🚀 I'm a Web Developer
 
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate with other developers
