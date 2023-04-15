@@ -10,14 +10,15 @@
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
 ## 🛠 Main Stack  &#128071;
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/> &nbsp; &nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql " width="40" height="40"/>&nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp; &nbsp;
-  </div>
+<div style="display:flex;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/> &nbsp; &nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql " width="40" height="40"/>&nbsp; &nbsp;
+    <img src="https://user-images.githubusercontent.com/68134403/232219651-7ca9b453-33f7-46e8-ba8b-70396cd6e396.png" title="SQL" alt="SQL " width="40" height="40"/>&nbsp; &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp; &nbsp;
+</div>
   
 ##  🛠 Other Skills 
   <div>
