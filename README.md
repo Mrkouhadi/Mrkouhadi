@@ -18,13 +18,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql " width="40" height="40"/>&nbsp; &nbsp;
     <img src="https://user-images.githubusercontent.com/68134403/232219651-7ca9b453-33f7-46e8-ba8b-70396cd6e396.png" title="SQL" alt="SQL " width="40" height="40"/>&nbsp; &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp;
 </div>
   
 ##  🛠 Other Skills 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp; 
- <img src="https://user-images.githubusercontent.com/68134403/219951913-7505eb93-0179-4e55-84ff-fcae4d9fb195.jpeg" title="React-Native" alt="React-native" width="50" height="40"/>&nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; &nbsp; 
+ <img src="https://user-images.githubusercontent.com/68134403/219951913-7505eb93-0179-4e55-84ff-fcae4d9fb195.jpeg" title="React-Native" alt="React-native" width="50" height="40"/>&nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp; 
