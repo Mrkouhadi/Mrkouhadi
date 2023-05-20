@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play Soccer, Chess and Guitar.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkouhadi&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 ## 🛠 Main Stack  &#128071;
 <div style="display:flex;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="golang" width="40" height="40"/> &nbsp; &nbsp; 
