@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/svg/14.svg" title="JavaScript" alt="JavaScript" width="800" height="400"  align="center"/>&nbsp; &nbsp; 
+  <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/svg/14.svg" title="" alt="JavaScript" width="800" height="400"  align="center"/>&nbsp; &nbsp; 
   <!--  width="400" height="200" -->
 </div>
 
