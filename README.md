@@ -30,6 +30,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/68134403/160449869-60c77c3f-bb31-482f-9c2f-9f8e6abec654.svg" title="Styled-Components" alt="Styled-Components" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="40" height="40"/>&nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; &nbsp;
 </div>
 
 ## 🔗 Let's Get in Touch
